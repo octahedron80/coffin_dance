@@ -1,1 +1,1 @@
-Easy music with PLAY function of QBASIC/QB64.
+Easy music with PLAY function of QBASIC/QB64. And this is the renowned Coffin Dance!
